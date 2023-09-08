@@ -1,0 +1,19 @@
+{
+    "contacts" : [
+        {
+            "id": "asdasd",
+            "name": "asd",
+            "email": "",
+            "photo" : "asd",
+            "mobile": "9087123123",
+            "title": "dfaad",
+            "group": "1"
+        }
+    ],
+    "groups": [
+        {
+            "id": "1",
+            "name": "friend"
+        }
+    ]
+}
